@@ -1,0 +1,60 @@
+h1{
+    font-family: roboto mono sans-serif;
+    color: tomato;
+    padding-left: 30px;
+}
+
+h2{
+    padding: 20px;
+    border: 2px solid transparent;
+    margin: 20px;
+}
+
+h2:hover{
+    padding: 20px;
+    border: 2px plum solid;
+    border-radius: 20px;
+    color: maroon;
+}
+
+p{
+    padding-left: 15px;
+}
+
+.violet{
+    color: violet;
+}
+
+.maroon{
+    color: maroon;
+}
+
+.img{
+    width: 500px;
+    height: 500px;
+    padding-left: 30px;
+    opacity: 0.8;
+}
+
+#intro{
+    background-color: #d1b5a6;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+#hobbies{
+    background-color: #b995a1;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+#design{
+    background-color: #4fb9af;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+#contact{
+    background-color: #5e9b8a;
+    border: 1px solid transparent;
+    border-radius: 15px;
